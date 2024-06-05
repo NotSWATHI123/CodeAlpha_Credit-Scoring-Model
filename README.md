@@ -1,1 +1,1 @@
-# CodeAlpha_Credit-Scoring-Model
+# CodeAlpha_Credit-Assignment-Model
